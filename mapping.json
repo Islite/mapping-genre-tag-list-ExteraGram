@@ -1,3 +1,4 @@
+MAPPINGS_JSON = """
 {
   "shikimori": {
     "Action": {"id": 1, "russian": ["экшен", "боевик"]},
