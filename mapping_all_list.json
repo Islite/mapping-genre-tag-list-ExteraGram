@@ -1,4 +1,5 @@
-"shikimori": {
+{
+    "shikimori": {
     "Action": {"id": 1, "russian": ["экшен", "боевик"]},
     "Adventure": {"id": 2, "russian": ["приключения"]},
     "Cars": {"id": 3, "russian": ["машины", "автомобили"]},
@@ -424,3 +425,4 @@
 "Monster Boy": ["монстер м"],
 "Villainess": ["злодейка"],
   }
+}
