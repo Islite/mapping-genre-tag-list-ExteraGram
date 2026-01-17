@@ -419,8 +419,9 @@
     "Monster Girl": ["монстер ж"],
     "Monster Boy": ["монстер м"],
     "Villainess": ["злодейка"]
+   }
   },
-MAP_SEPARATOR = {
+"MAP_SEPARATOR" = {
     "separator_1": "доп теги",
     "separator_2": "гг",
     "separator_3": "основные",
