@@ -421,7 +421,7 @@
     "Villainess": ["злодейка"]
    }
   },
-"MAP_SEPARATOR" = {
+"separator" = {
     "separator_1": "доп теги",
     "separator_2": "гг",
     "separator_3": "основные",
