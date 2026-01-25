@@ -24,10 +24,8 @@
 "Thriller": ["триллер"],
 "Isekai": ["исекай"],
 "School": ["школа"],
-
 "Yuri": ["юри"],
 "Boys' Love": ["яой"],
-
 "Age Regression": ["возрастная регрессия"],
 "Artificial Intelligence": ["ии"],
 "Dystopian": ["антиутопия"],
@@ -61,10 +59,8 @@
 "Superhero": ["супергерои"],
 "Tragedy": ["трагедия"],
 "Revenge": ["месть"],
-
 "доп теги",
 "Matriarchy": ["матриархат"],
-
 "Agender": ["агендер"],
 "Aliens": ["инопланетяне"],
 "Amnesia": ["амнезия"],
@@ -135,7 +131,6 @@
 "Witch": ["ведьма"],
 "Yandere": ["яндере"],
 "Zombie": ["зомби"],
-
 "Bar": ["бар"],
 "Boarding School": ["школа интернат"],
 "Camping": ["кемпинг"],
@@ -158,7 +153,6 @@
 "Urban": ["городская местность"],
 "Wilderness": ["дикая природа"],
 "Work": ["работа"],
-
 "Achronological Order": ["ахронологический порядок"],
 "Anachronism": ["анархизм"],
 "Ancient China": ["древний Китай"],
@@ -194,7 +188,6 @@
 "Torture": ["пытки"],
 "Travel": ["путешествия"],
 "Vocal Synth": ["вокалоид"],
-
 "Assassins": ["убийцы"],
 "Criminal Organization": ["преступная организация"],
 "Cult": ["культ"],
@@ -203,7 +196,6 @@
 "Mafia": ["мафия"],
 "Triads": ["триады"],
 "Yakuza": ["якудза"],
-
 "Aviation": ["авиация"],
 "Cars": ["автомобили"],
 "Mopeds": ["мопеды"],
@@ -211,7 +203,6 @@
 "Ships": ["корабли"],
 "Tanks": ["танки"],
 "Trains": ["поезда"],
-
 "Age Gap": ["разница в возрасте"],
 "Cohabitation": ["сожительство"],
 "Heterosexual": ["гетеросексуал"],
@@ -222,14 +213,11 @@
 "Polyamorous": ["полиамория"],
 "Teens' Love": ["подростковая любовь"],
 "Unrequited Love": ["неразделённая любовь"],
-
 "Space Opera": ["космическая опера"],
 "Time Loop": ["петля времени"],
 "Tokusatsu": ["токусатсу"],
-
 "Real Robot": ["реальный робот"],
 "Super Robot": ["супер робот"],
-
 "Agriculture": ["сельское хозяйство"],
 "Cute Boys Doing Cute Things": ["милые мальчики делают милое"],
 "Cute Girls Doing Cute Things": ["милые девочки делают милое"],
@@ -237,24 +225,20 @@
 "Horticulture": ["садоводство"],
 "Iyashikei": ["иясикиэи"],
 "Parenthood": ["родительство"],
-
 "Mythology": ["мифология"],
 "Necromancy": ["некромантия"],
 "Shapeshifting": ["смена облика"],
 "Wuxia": ["уся"],
 "Youkai": ["ёкаи"],
-
 "Board Game": ["настольные игры"],
 "E Sports": ["киберспорт"],
 "Video Games": ["видеоигры"],
-
 "Card Battle": ["карточные битвы"],
 "Go": ["го"],
 "Karuta": ["карута"],
 "Mahjong": ["маджонг"],
 "Poker": ["покер"],
 "Shogi": ["сёги"],
-
 "Acrobatics": ["акробатика"],
 "Airsoft": ["эйрсофт"],
 "American Football": ["американский футбол"],
@@ -286,7 +270,6 @@
 "Tennis": ["теннис"],
 "Volleyball": ["волейбол"],
 "Wrestling": ["борьба"],
-
 "Adoption": ["усыновление"],
 "Animals": ["животные"],
 "Astronomy": ["астрономия"],
@@ -301,7 +284,6 @@
 "Creature Taming": ["дрессировка существ"],
 "Urban Fantasy": ["городское фэнтези"],
 "Virtual World": ["виртуальный мир"],
-
 "4 koma": ["4 кома"],
 "Achromatic": ["ахроматическое"],
 "Advertisement": ["реклама"],
@@ -320,7 +302,6 @@
 "Rotoscoping": ["ротоскопинг"],
 "Stop Motion": ["стоп моушн"],
 "Vertical Video": ["вертикальное видео"],
-
 "Archery": ["стрельба из лука"],
 "Battle Royale": ["королевская битва"],
 "Espionage": ["шпионаж"],
@@ -329,7 +310,6 @@
 "Martial Arts": ["боевые искусства"],
 "Spearplay": ["фехтование копьем"],
 "Swordplay": ["фехтование мечом"],
-
 "Acting": ["актёрское мастерство"],
 "Ballet": ["балет"],
 "Calligraphy": ["каллиграфия"],
@@ -344,7 +324,6 @@
 "Photography": ["фотография"],
 "Rakugo": ["ракуго"],
 "Writing": ["письмо"],
-
 "Band": ["группа"],
 "Classical Music": ["классическая музыка"],
 "Dancing": ["танцы"],
@@ -353,12 +332,10 @@
 "Metal Music": ["метал"],
 "Musical Theater": ["музыкальный театр"],
 "Rock Music": ["рок"],
-
 "Parody": ["пародия"],
 "Satire": ["сатира"],
 "Slapstick": ["физическая комедия"],
 "Surreal Comedy": ["сюрреалистическая комедия"],
-
 "Bullying": ["буллинг"],
 "Class Struggle": ["классовая борьба"],
 "Coming of Age": ["взросление"],
@@ -368,7 +345,6 @@
 "Kingdom Management": ["управление королевством"],
 "Rehabilitation": ["реабилитация"],
 "Suicide": ["самоубийство"],
-
 "Alchemy": ["алхимия"],
 "Body Swapping": ["обмен телами"],
 "Cultivation": ["культивация"],
@@ -377,7 +353,6 @@
 "Fairy Tale": ["сказка"],
 "Henshin": ["хэнсин"],
 "Kaiju": ["кайдзю"],
-
 "Ahegao": ["ахэгао"],
 "Amputation": ["ампутация"],
 "Anal Sex": ["анальный секс"],
@@ -444,7 +419,6 @@
 "Voyeur": ["вуаеризм"],
 "Watersports": ["водные виды фетиша"],
 "Zoophilia": ["зоофилия"],
-
 "Ensemble Cast": ["ансамбль персонажей"],
 "Elderly Protagonist": ["пожилой главный герой"],
 "Primarily Adult Cast": ["преимущественно взрослые"],
