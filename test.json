@@ -1,3 +1,4 @@
+{main_genres": {
 "Board Game": ["настольные игра"],
 "E-Sports": [киберспорт"],
 
@@ -79,7 +80,7 @@
 "Disability": ["инвалидность"],
 "Rehabilitation": ["реабилитация"],
 
-"Kingdom Management" :  ["управление королевством"],
+"Kingdom Management" :  ["управление королевством"],
 "Matriarchy": ["матриархат"],
 "Royal Affairs": ["королевские дела"],
 "Economics": ["экономика"],
@@ -475,5 +476,5 @@
 "Espionage": ["шпионаж"],
 "Elf": ["эльфы"],
 "Yakuza": ["якудза"],
-"Yandere": ["яндере"],
-япония
+"Yandere": ["яндере"]
+япония}}
