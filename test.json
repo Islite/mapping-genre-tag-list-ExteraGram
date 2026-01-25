@@ -1,4 +1,4 @@
-{ "main_genres": {
+{ "sorting_genres": [
 "Action",
 "Adventure",
 "Comedy",
@@ -244,4 +244,4 @@
 "Family Life",
 "Horticulture",
 "Iyashikei",
-"Parenthood"}}
+"Parenthood"]}
