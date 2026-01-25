@@ -1,4 +1,4 @@
-{ "main_genres": [
+{ "main_genres": {
 "Action": ["боевик"],
 "Adventure": ["приключения"],
 "Comedy": ["комедия"],
@@ -455,4 +455,4 @@
 "Primarily Teen Cast": ["преимущественно подростки"],
 "Anti Hero": ["антигерой"],
 "Female Protagonist": ["гг ж"],
-"Male Protagonist": ["гг м"]]}
+"Male Protagonist": ["гг м"]}}
