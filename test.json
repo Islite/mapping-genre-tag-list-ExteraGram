@@ -1,5 +1,4 @@
 { "sorting_genres": [
-"жанры",
 "Action": ["боевик"],
 "Adventure": ["приключения"],
 "Comedy": ["комедия"],
@@ -26,11 +25,9 @@
 "Isekai": ["исекай"],
 "School": ["школа"],
 
-"доп жанры",
 "Yuri": ["юри"],
 "Boys' Love": ["яой"],
 
-"теги",
 "Age Regression": ["возрастная регрессия"],
 "Artificial Intelligence": ["ии"],
 "Dystopian": ["антиутопия"],
@@ -381,7 +378,6 @@
 "Henshin": ["хэнсин"],
 "Kaiju": ["кайдзю"],
 
-"хентай теги",
 "Ahegao": ["ахэгао"],
 "Amputation": ["ампутация"],
 "Anal Sex": ["анальный секс"],
@@ -449,7 +445,6 @@
 "Watersports": ["водные виды фетиша"],
 "Zoophilia": ["зоофилия"],
 
-"гг теги",
 "Ensemble Cast": ["ансамбль персонажей"],
 "Elderly Protagonist": ["пожилой главный герой"],
 "Primarily Adult Cast": ["преимущественно взрослые"],
