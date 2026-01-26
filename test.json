@@ -1,5 +1,4 @@
-{ "main_genres": {
-  
+{ "main_genres": { 
 "Action": ["боевик"],
 "Female Harem": ["гарем"],
 "Male Harem": ["гарем"],
@@ -25,10 +24,8 @@
 "Hentai": ["хентай"],
 "School": ["школа"],
 "Ecchi": ["этти"]
-
 "Yuri": ["юри"],
 "Boys' Love": ["яой"]
-
 "Alternate Universe": ["альтернативная вселенная"],
 "Amnesia": ["амнезия"],
 "Angels": ["ангелы"],
@@ -96,7 +93,6 @@
 "Hikikomori": ["хикикомори"],
 "Delinquents": ["хулиганы"],
 "Yakuza": ["якудза"]
-
 "4-koma": ["4 кома"],
 "Aviation": ["авиация"],
 "Acting": ["актёрское мастерство"],
@@ -356,7 +352,6 @@
 "Airsoft": ["эйрсофт"],
 "Ships": ["корабли"],
 "Yandere": ["яндере"],
-
 "Rimjob": ["анальный минет"],
 "Anal Sex": ["анальный секс"],
 "Amputation": ["ампутация"],
@@ -423,7 +418,6 @@
 "Exhibitionism": ["эксгибиционизм"],
 "Erotic Piercings": ["эротические пирсинги"],
 "Facial": ["эякуляция на лицо"],
-
 "Ensemble Cast": ["ансамбль персонажей"],
 "Elderly Protagonist": ["пожилой гг"],
 "Primarily Adult Cast": ["преимущественно взрослые"],
