@@ -1,5 +1,38 @@
-{ "sorting_genres": [
-"Action", "Female Harem", "Male Harem", "Mixed Gender Harem", "Detective", "Drama", "Isekai", "Comedy", "Mahou Shoujo", "Mecha", "Supernatural", "Music", "Sci-Fi", "Slice of Life", "Adventure", "Psychological", "Romance", "Sports", "Mystery", "Thriller", "Horror", "Fantasy", "Hentai", "School", "Ecchi", "Yuri", "Boys' Love"
+{"formats": {
+"TV": ["сериал"],
+"TV_SHORT": ["короткий сериал"],
+"MOVIE": ["фильм"],
+"SPECIAL": ["специальный эпизод"],
+"OVA": ["ова],
+"ONA": ["она"],
+"MUSIC": ["коип"],
+"MANGA": ["манга"],
+"NOVEL": ["ранобэ"],
+"ONE_SHOT": ["ваншот"],
+"DOUJIN": ["додзинси"],
+"MANHWA": ["манхва"],
+"MANHUA": ["маньхуа"]
+},
+"seasons": {
+"WINTER": ["зима"],
+"SPRING": ["весна"],
+"SUMMER": ["лето"],
+"FALL": ["осень"]
+},
+"countries": {
+"JP": ["Япония"],
+"KR": ["Корея"],
+"CN": ["Китай"]
+},
+"demographics": {
+"Shounen": ["сёнэн"],
+"Shoujo": ["сёдзё"],
+"Seinen": ["сэйнэн"],
+"Josei": ["дзёсэй"],
+"Kids": ["детское"]
+},
+"sorting_genres": [
+"Action", "Female Harem", "Male Harem", "Mixed Gender Harem", "Detective", "Drama", "Isekai", "Comedy", "Mahou Shoujo", "Mecha", "Supernatural", "Music", "Sci-Fi", "Slice of Life", "Adventure", "Psychological", "Romance", "Sports", "Mystery", "Thriller", "Horror", "Fantasy", "Hentai", "School", "Ecchi", "Yuri", "Boys' Love", "separator_non_translate"
 ],
 "sorting_tags": [
 "Alternate Universe", "Amnesia", "Angels", "Dystopian", "Gangs", "Twins", "Gods", "Vampire", "War", "Military", "Age Regression", "Survival", "Maids", "Demons", "Augmented Reality", "Gore", "Zombie", "Idol", "Artificial Intelligence", "Aliens", "Historical", "Cyberpunk", "Space", "Crime", "Otaku Culture", "LGBTQ+ Themes", "Love Triangle", "Magic", "Mafia", "Time Manipulation", "Memory Manipulation", "Matriarchy", "Medicine", "Revenge", "Found Family", "Ninja", "Body Swapping", "Reverse Isekai", "Estranged Family", "Pandemic", "Parody", "Pirates", "Firefighters", "Police", "Politics", "Post-Apocalyptic", "Criminal Organization", "Ghost", "Travel", "Slavery", "Work", "Reincarnation", "Religion", "Robots", "Samurai", "Family Life", "Skeleton", "Steampunk", "Succubus", "Super Power", "Superhero", "Terrorism", "Tragedy", "Assassins", "Philosophy", "Hikikomori", "Delinquents", "Yakuza",
