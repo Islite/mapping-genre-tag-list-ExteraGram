@@ -1,4 +1,19 @@
-{"countries": {
+{
+  "status": {
+    "RELEASING": ["выходит", "онгоинг"],
+    "FINISHED": ["завершён"],
+    "NOT_YET_RELEASED": ["анонс"],
+    "CANCELLED": ["отменён"],
+    "HIATUS": ["пауза"]
+  },
+  "source": {
+    "MANGA": ["манга"],
+    "LIGHT_NOVEL": ["ранобэ"],
+    "ORIGINAL": ["оригинал"],
+    "GAME": ["игра"],
+    "VISUAL_NOVEL": ["визуальная новелла"]
+  },
+    "countries": {
 "JP": ["Япония"],
 "KR": ["Корея"],
 "CN": ["Китай"]
