@@ -1,6 +1,6 @@
 {
   "status": {
-    "RELEASING": ["выходит", "онгоинг"],
+    "RELEASING": ["онгоинг"],
     "FINISHED": ["завершён"],
     "NOT_YET_RELEASED": ["анонс"],
     "CANCELLED": ["отменён"],
