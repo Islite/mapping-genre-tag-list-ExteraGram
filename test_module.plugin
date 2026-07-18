@@ -1,0 +1,52 @@
+# === METADATA ===
+__id__ = "AniList_TestModule"
+__name__ = "AniList Test Module"
+__description__ = "Тестовый модуль для AniList Core"
+__author__ = "@fakefeelinger"
+__version__ = "1.0.8"
+__min_version__ = "12.0.1"
+
+import sys
+from base_plugin import BasePlugin, HookResult, HookStrategy
+from android_utils import log, run_on_ui_thread
+from client_utils import get_last_fragment, send_text
+from ui.bulletin import BulletinHelper
+from ui.settings import Input, Text
+
+class AniList_TestModule(BasePlugin):
+
+    def __init__(self):
+        super().__init__()
+        self.test_text = "Привет из тестового модуля!"
+
+    def get_settings_schema(self):
+        core = sys.modules.get('anilist_core')
+        prefix = "mod_AniList_TestModule_"
+        trigger_default = ".test"
+        text_default = "По умолчанию"
+        
+        if core:
+            trigger_default = core.get_setting(f"{prefix}trigger", trigger_default)
+            text_default = core.get_setting(f"{prefix}test_text", text_default)
+        
+        return [
+            Input(
+                key="trigger",
+                text="Команда ввода",
+                default=trigger_default
+            ),
+            Input(
+                key="test_text",
+                text="Текст ответа",
+                default=text_default
+            )
+        ]
+
+    def handle_command(self, account, params, config):
+        log("[TestModule] handle_command ВЫЗВАН")
+        try:
+            text = f"✅ Ответ от Test Module:\n{config.get('test_text', self.test_text)}"
+            send_text(account=account, peer=params.peer, text=text)
+        except Exception as e:
+            log(f"[TestModule] Ошибка: {e}")
+        return HookResult(strategy=HookStrategy.CANCEL)
