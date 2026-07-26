@@ -497,9 +497,9 @@
 "Facial": ["эякуляция на лицо"]
 },
 "separator": {
-"separator_tags": { "label": "\nдоп теги", "preview": "гг тег" },
-"separator_hentai": { "label": "\nхентай теги", "preview": "хентай тег" },
-"separator_gg": { "label": "\nгг теги", "preview": "гг тег" }
+"separator_tags": { "label": "\nдоп теги:", "preview": "гг тег" },
+"separator_hentai": { "label": "\nхентай теги:", "preview": "хентай тег" },
+"separator_gg": { "label": "\nгг теги:", "preview": "гг тег" }
 },
 "shikimori": {
 "Action": {"id": 1, "russian": ["экшен", "боевик"]},
