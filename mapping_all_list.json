@@ -2,9 +2,10 @@
   "format_shiki": {
     "tv": "сериал",
     "movie": "фильм",
-    "ova": "OVA",
-    "ona": "ONA",
+    "ova": "ОВА",
+    "ona": "ОНА",
     "special": "спешл",
+    "tv_special": "тв спешл",
     "music": "клип"
   },
   "season_month": {
