@@ -273,7 +273,7 @@ def build_preview(plugin, mapping):
         "audience": fm("сёнэн", False, plugin.hash_demographic) if plugin.show_demographic else "",
         "genres": gs, "tags": ts,
         "episodes": "8/18 эп." if plugin.show_episodes else "",
-        "score": "8.88/10" if plugin.show_score else "",
+        "score": "8.8/10" if plugin.show_score else "",
         "status": fm("выходит", plugin.underscore_status, plugin.hash_status) if plugin.show_status else "",
         "duration": "24 мин." if plugin.show_duration else "",
         "source": fm("оригинал", plugin.underscore_source, plugin.hash_source) if plugin.show_source else "",
