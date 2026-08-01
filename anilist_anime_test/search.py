@@ -194,7 +194,7 @@ def parse_anilist_media_list(media, mapping):
             "genres": _map_genres(m.get("genres"), mapping),
             "cover_url": m.get("coverImage", {}).get("large", ""),
             "country_line": country_line,
-            "score": f"{score_val / 10:.2f}" if score_val is not None else "?",
+            "score": f"{score_val / 10:.1f}" if score_val is not None else "?",
             "type_ru": formats.get(fmt, [fmt])[0] if fmt else "",
             "source": "anilist",
         })
@@ -225,7 +225,7 @@ def parse_shikimori_media_list(media, mapping):
             "genres": [],
             "cover_url": cover_url,
             "country_line": country_line,
-            "score": f"{float(m.get('score')):.2f}" if m.get("score") else "?",
+            "score": f"{float(m.get('score')):.1f}" if m.get("score") else "?",
             "type_ru": fs.get(kind, kind.upper()),
             "source": "shikimori",
         })
@@ -259,7 +259,7 @@ def _row_from_id_data(data, shiki, mapping):
             "genres": _map_genres(data.get("genres"), mapping),
             "cover_url": cover,
             "country_line": country_line,
-            "score": f"{score_val / 10:.2f}" if score_val is not None else "?",
+            "score": f"{score_val / 10:.1f}" if score_val is not None else "?",
             "type_ru": formats.get(fmt, [fmt])[0] if fmt else "",
             "source": "anilist",
         }
@@ -277,7 +277,7 @@ def _row_from_id_data(data, shiki, mapping):
             "genres": [],
             "cover_url": cover,
             "country_line": "🇯🇵 Япония",
-            "score": f"{float(shiki.get('score')):.2f}" if shiki.get("score") else "?",
+            "score": f"{float(shiki.get('score')):.1f}" if shiki.get("score") else "?",
             "type_ru": fs.get(kind, kind.upper()),
             "source": "shikimori",
         }
