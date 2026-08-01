@@ -303,10 +303,10 @@ def format_media_full(plugin, data, template, shiki_data, mapping):
     score = ""
     if plugin.show_score:
         if data and data.get("averageScore") is not None:
-            score = f"{data.get('averageScore') / 10:.2f}/10"
+            score = f"{data.get('averageScore') / 10:.1f}/10"
         elif shiki_data and shiki_data.get("score"):
             try:
-                score = f"{float(shiki_data.get('score')):.2f}/10"
+                score = f"{float(shiki_data.get('score')):.1f}/10"
             except Exception:
                 score = ""
     st_tr = (mapping.universal_mapping.get("status") or {}).get(st_raw, [st_raw.lower() if st_raw else "неизвестно"])[0] if st_raw else ""
