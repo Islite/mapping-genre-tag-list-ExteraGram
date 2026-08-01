@@ -1,9 +1,0 @@
-id: AniList_Anime
-name: AniList Anime
-description: Ищет аниме через anilist.co и shikimori.one
-author: "@fakefeelinger"
-version: "0.1.0"
-icon: Islite_plugins/0
-app_version: ">=12.8.1"
-sdk_version: ">=1.4.4.3"
-requirements: []
