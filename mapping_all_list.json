@@ -520,9 +520,13 @@
 "Facial": ["эякуляция на лицо"]
 },
 "separator": {
-"separator_tags": { "label": "\nдоп теги", "preview": "Доп теги" },
-"separator_hentai": { "label": "\nхентай теги", "preview": "Хентай теги" },
-"separator_gg": { "label": "\nгг теги", "preview": "ГГ теги" }
+"separator_genres": { "label": "\nжанры", "preview": "основной жанр" },
+"separator_other_genres": { "label": "\nпрочие жанры", "preview": "прочий жанр" },
+"separator_tag": { "label": "\nтеги", "preview": "основной тег" },
+"separator_tags": { "label": "\nдоп теги", "preview": "доп тег" },
+"separator_hentai": { "label": "\nхентай теги", "preview": "хентай тег" },
+"separator_gg": { "label": "\nгг теги", "preview": "гг тег" },
+"separator_other_tag": { "label": "\nпрочие теги", "preview": "прочий тег" }
 },
 "shikimori": {
 "Action": {"id": 1, "russian": ["экшен", "боевик"]},
