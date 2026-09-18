@@ -35,32 +35,32 @@
     "GAME": ["игра"],
     "VISUAL_NOVEL": ["визуальная новелла"]
   },
-    "countries": {
-"UNKNOWN": ["Неизвестно"],
-"JP": ["Япония"],
-"KR": ["Корея"],
-"CN": ["Китай"]
-},
-"seasons": {
-"WINTER": ["зима"],
-"SPRING": ["весна"],
-"SUMMER": ["лето"],
-"FALL": ["осень"]
-},
-"formats": {
-"TV": ["сериал"],
-"TV_SHORT": ["короткий сериал"],
-"MOVIE": ["фильм"],
-"SPECIAL": ["специальный эпизод"],
-"OVA": ["ОВА"],
-"ONA": ["ОНА"],
-"MUSIC": ["клип"],
-"MANGA": ["манга"],
-"NOVEL": ["ранобэ"],
-"ONE_SHOT": ["ваншот"],
-"DOUJIN": ["додзинси"],
-"MANHWA": ["манхва"],
-"MANHUA": ["маньхуа"]
+  "countries": {
+    "UNKNOWN": ["Неизвестно"],
+    "JP": ["Япония"],
+    "KR": ["Корея"],
+    "CN": ["Китай"]
+  },
+  "seasons": {
+    "WINTER": ["зима"],
+    "SPRING": ["весна"],
+    "SUMMER": ["лето"],
+    "FALL": ["осень"]
+  },
+  "formats": {
+    "TV": ["сериал"],
+    "TV_SHORT": ["короткий сериал"],
+    "MOVIE": ["фильм"],
+    "SPECIAL": ["специальный эпизод"],
+    "OVA": ["ОВА"],
+    "ONA": ["ОНА"],
+    "MUSIC": ["клип"],
+    "MANGA": ["манга"],
+    "NOVEL": ["ранобэ"],
+    "ONE_SHOT": ["ваншот"],
+    "DOUJIN": ["додзинси"],
+    "MANHWA": ["манхва"],
+    "MANHUA": ["маньхуа"]
 },
 "demographics": {
 "Shounen": ["сёнэн"],
@@ -520,9 +520,9 @@
 "Facial": ["эякуляция на лицо"]
 },
 "separator": {
-"separator_tags": { "label": "\nдоп теги", "preview": "доп тег" },
-"separator_hentai": { "label": "\nхентай теги", "preview": "хентай тег" },
-"separator_gg": { "label": "\nгг теги", "preview": "гг тег" }
+"separator_tags": { "label": "\nдоп теги", "preview": "Доп теги" },
+"separator_hentai": { "label": "\nхентай теги", "preview": "Хентай теги" },
+"separator_gg": { "label": "\nгг теги", "preview": "ГГ теги" }
 },
 "shikimori": {
 "Action": {"id": 1, "russian": ["экшен", "боевик"]},
