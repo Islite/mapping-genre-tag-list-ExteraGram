@@ -70,7 +70,7 @@
     "Kids": ["детское"]
   },
   "sorting_genres": [
-    "separator_genres", "Action", "Female Harem", "Male Harem", "Mixed Gender Harem", "Detective", "Drama", "Isekai", "Comedy", "Mahou Shoujo", "Mecha", "Supernatural", "Music", "Sci-Fi", "Slice of Life", "Adventure", "Psychological", "Romance", "Sports", "Mystery", "Thriller", "Horror", "Fantasy", "Hentai", "School", "Ecchi", "Yuri", "Boys' Love",
+    "separator_genres", "1", "2", "Action", "Female Harem", "Male Harem", "Mixed Gender Harem", "Detective", "Drama", "Isekai", "Comedy", "Mahou Shoujo", "Mecha", "Supernatural", "Music", "Sci-Fi", "Slice of Life", "Adventure", "Psychological", "Romance", "Sports", "Mystery", "Thriller", "Horror", "Fantasy", "Hentai", "School", "Ecchi", "Yuri", "Boys' Love",
     "separator_other_genres"
   ],
   "sorting_tags": [
