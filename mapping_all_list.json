@@ -531,7 +531,7 @@
 "separator_other_tag": { "label": "\nпрочие теги", "preview": "прочий тег" }
 },
 "shikimori": {
-# жанры
+
 "Action": {"id": 1, "russian": ["экшен"]},
 "Adventure": {"id": 2, "russian": ["приключения"]},
 "Avant Garde": {"id": 5, "russian": ["авангард"]},
@@ -549,7 +549,6 @@
 "Supernatural": {"id": 37, "russian": ["сверхъестественное"]},
 "Suspense": {"id": 117, "russian": ["триллер"]},
 
-# темы
 "Adult Cast": {"id": 104, "russian": ["взрослые персонажи"]},
 "Anthropomorphic": {"id": 143, "russian": ["антропоморфизм"]},
 "Award Winning": {"id": 114, "russian": ["удостоено наград"]},
@@ -594,7 +593,6 @@
 "Villainess": {"id": 198, "russian": ["злодейка"]},
 "Visual Arts": {"id": 108, "russian": ["изобразительное искусство"]},
 
-# демография
 "Josei": {"id": 43, "russian": ["дзёсей"]},
 "Kids": {"id": 15, "russian": ["детское"]},
 "Seinen": {"id": 42, "russian": ["сэйнэн"]},
