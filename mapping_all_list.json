@@ -516,12 +516,12 @@
 "Facial": ["эякуляция на лицо"]
 },
 "separator": {
-"separator_genres": { "label": "\nжанры", "preview": "основной жанр" },
-"separator_other_genres": { "label": "\nпрочие жанры", "preview": "прочий жанр" },
-"separator_tag": { "label": "\nтеги", "preview": "основной тег" },
-"separator_tags": { "label": "\nдоп теги", "preview": "доп тег" },
-"separator_hentai": { "label": "\nхентай теги", "preview": "хентай тег" },
-"separator_gg": { "label": "\nгг теги", "preview": "гг тег" },
-"separator_other_tag": { "label": "\nпрочие теги", "preview": "прочий тег" }
+"separator_genres": { "label": "жанры", "preview": "основной жанр" },
+"separator_other_genres": { "label": "прочие жанры", "preview": "прочий жанр" },
+"separator_tag": { "label": "теги", "preview": "основной тег" },
+"separator_tags": { "label": "доп теги", "preview": "доп тег" },
+"separator_hentai": { "label": "хентай теги", "preview": "хентай тег" },
+"separator_gg": { "label": "гг теги", "preview": "гг тег" },
+"separator_other_tag": { "label": "прочие теги", "preview": "прочий тег" }
 }
 }
