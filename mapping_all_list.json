@@ -32,7 +32,9 @@
     "LIGHT_NOVEL": ["ранобэ"],
     "ORIGINAL": ["оригинал"],
     "GAME": ["игра"],
-    "VISUAL_NOVEL": ["визуальная новелла"]
+    "VIDEO_GAME": ["видео игра"],
+    "VISUAL_NOVEL": ["визуальная новелла"],
+    "OTHER": ["другое"]
   },
   "countries": {
     "UNKNOWN": ["Неизвестно"],
